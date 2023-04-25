@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LOGOWeb/static/css/main.a94ad7f2.chunk.css",
+    "main.js": "/LOGOWeb/static/js/main.417242ca.chunk.js",
+    "main.js.map": "/LOGOWeb/static/js/main.417242ca.chunk.js.map",
+    "runtime-main.js": "/LOGOWeb/static/js/runtime-main.9a7ac991.js",
+    "runtime-main.js.map": "/LOGOWeb/static/js/runtime-main.9a7ac991.js.map",
+    "static/css/2.0cee8fd6.chunk.css": "/LOGOWeb/static/css/2.0cee8fd6.chunk.css",
+    "static/js/2.8a7d8468.chunk.js": "/LOGOWeb/static/js/2.8a7d8468.chunk.js",
+    "static/js/2.8a7d8468.chunk.js.map": "/LOGOWeb/static/js/2.8a7d8468.chunk.js.map",
+    "index.html": "/LOGOWeb/index.html",
+    "precache-manifest.c3868f9c5b45db710e7164fa7212b515.js": "/LOGOWeb/precache-manifest.c3868f9c5b45db710e7164fa7212b515.js",
+    "service-worker.js": "/LOGOWeb/service-worker.js",
+    "static/css/2.0cee8fd6.chunk.css.map": "/LOGOWeb/static/css/2.0cee8fd6.chunk.css.map",
+    "static/css/main.a94ad7f2.chunk.css.map": "/LOGOWeb/static/css/main.a94ad7f2.chunk.css.map",
+    "static/js/2.8a7d8468.chunk.js.LICENSE.txt": "/LOGOWeb/static/js/2.8a7d8468.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a7ac991.js",
+    "static/css/2.0cee8fd6.chunk.css",
+    "static/js/2.8a7d8468.chunk.js",
+    "static/css/main.a94ad7f2.chunk.css",
+    "static/js/main.417242ca.chunk.js"
+  ]
+}
