@@ -1,4 +1,5 @@
 {
+  "homepage": "https://mostafagh10.github.io/LOGOWeb/",
   "name": "pr1",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "bootstrap": "^4.3.1",
+    "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
     "moment": "^2.27.0",
     "popper.js": "^1.16.1",
@@ -23,6 +25,8 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
