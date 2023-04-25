@@ -1,0 +1,13 @@
+.portfolioone{
+    margin-top: 140px;
+    text-align: center;
+}
+.portfoliohr{
+    width: 80px;
+    background-color: rgb(75, 131, 156);
+    border:none;
+    height: 3px;
+}
+.portfoliocard{
+    margin-top: 25px;
+}

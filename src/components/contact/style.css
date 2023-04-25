@@ -1,0 +1,60 @@
+.contactone{
+    margin-top: 140px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.contacthr{
+    width: 80px;
+    background-color: rgb(75, 131, 156);
+    border:none;
+    height: 3px;
+}
+#contact1{
+    text-align: center;
+    padding:40px;
+    border: none
+}
+.contactdetails{
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: rgb(172, 163, 163);
+    font-size: 20px;
+}
+.contacttwo , .contactthree,.contactfour,.contactfive{
+    background-color: rgb(252, 249, 249);
+    height: 50px;
+    border: 0px;
+    padding: 15px;
+}
+.contacttwo{
+    width: 69%;
+    float: right;
+}
+.contactthree{
+    float: left;
+    width: 69%;
+}
+.contactfour , .contactfive{
+    width: 70%;
+}
+#contactbut{
+    width: 150px;
+    height: 40px;
+}
+.contacttwo:active, .contactthree:active,.contactfour:active,.contactfive :active {
+    border: 1px solid black;
+}
+#contact5{
+    font-size:30px;
+    margin: auto;
+    color: rgb(75, 131, 156);
+}
+@media(max-width:767px){
+    .contacttwo,.contactthree{
+        display: inline-block;
+        float: none;
+    }
+    .contacttwo,.contactthree,.contactfour,.contactfive{
+        width: 90%;
+    }
+}

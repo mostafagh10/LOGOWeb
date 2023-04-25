@@ -1,0 +1,37 @@
+.serviceone{
+    margin-top: 140px;
+    text-align: center;
+}
+.servicehr{
+    width: 80px;
+    background-color: rgb(75, 131, 156);
+    border:none;
+    height: 3px;
+}
+#service1{
+    text-align: center;
+    padding:40px;
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+    transition: all 0.3s ease-in-out;
+}
+#service1:hover{
+    background-color: black;
+    color: white;
+}
+#service2{
+    border: none;
+    color: rgb(245, 248, 245);
+    background-color: rgb(12, 12, 12);
+}
+#service3{
+    width: 100%;
+    padding-top: 20px;
+    background-color: rgb(12, 12, 12);
+}
+#service4,#service5{
+    font-size:50px;
+    margin: auto;
+    color: rgb(75, 131, 156);
+}

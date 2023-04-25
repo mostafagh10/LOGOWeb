@@ -1,0 +1,23 @@
+.aboutone{
+    margin-top: 140px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.abouthr{
+    width: 80px;
+    background-color: rgb(75, 131, 156);
+    border:none;
+    height: 3px;
+}
+.aboutcard{
+    text-align: center;
+    padding:40px;
+    margin-top: 10px;
+}
+.abouttwo{
+    color:rgb(75, 131, 156)
+}
+.abouttwo:hover{
+    cursor: pointer;
+    color:rgb(34, 96, 124)
+}
